@@ -14,3 +14,7 @@ yarn run android
 # 运行调试工具
 
 react-devtools
+
+# 修补代码 屏蔽 chrom 浏览器不支持异步的错误
+
+npx patch-package
